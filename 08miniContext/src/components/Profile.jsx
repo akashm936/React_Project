@@ -1,6 +1,8 @@
 import React, { useContext } from 'react'
 import UserContext from '../Context/UserContext'
 
+
+// fouth step
 function Profile() {
   
     const {user} = useContext(UserContext)
