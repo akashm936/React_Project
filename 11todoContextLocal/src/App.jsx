@@ -16,7 +16,7 @@ function App() {
     // console.log(setTodos);
     
   
-  
+  // important 
   // prev.map(eachVal) => {
   //   if(eachVal.id === id ){
   //     todo
